@@ -40,7 +40,7 @@
 </main>
 
 
- <footer class="footer">
+<footer class="footer">
     <div class="container">
       <div class="row">
         <div>
@@ -48,9 +48,18 @@
           <div style="margin-top:6px"><small class="mono">© 2025 Sunori • Tous droits réserver</small></div>
         </div>
         <div class="chips">
-          <a class="chip" href="#" onclick="openFaqImage(); return false;">Contact</a>
-          <a class="chip" href="#" onclick="openFaqImage(); return false;">Termes</a>
-          <a class="chip" href="#" onclick="openFaqImage(); return false;">FAQ</a>
+<a href="#" class="chip" onclick="openImageModal('faq-image-modal','faq-image','téléchargement.jpg');return false;">
+  FAQ
+</a>
+
+<a href="#" class="chip" onclick="openImageModal('contact-image-modal','contact-image','d1a9fd234a97e90ea424187dcd8a56ee.gif');return false;">
+  Contact
+</a>
+
+<a href="#" class="chip" onclick="openImageModal('termes-image-modal','termes-image','big-monke-flips-you-off-what-u-do-v0-861gk9gqka0c1.webp');return false;">
+  Termes
+</a>
+
 </div>
 
         </div>
@@ -58,6 +67,7 @@
     </div>
   </footer>
 
+  
 <!-- Read-me Modal -->
 <div id="readme-modal" class="modal hidden" aria-hidden="true">
   <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="readme-title">
@@ -67,22 +77,31 @@
   </div>
 </div>
 
-
-
-
   <script src="app.js"></script>
-  <div id="faq-image-modal" class="modal hidden" onclick="closeFaqImage(event)">
+
+
+<!-- FAQ -->
+<div id="faq-image-modal" class="modal hidden" onclick="closeImageModal(event,'faq-image-modal')">
   <div class="modal-content">
-    <img src="big-monke-flips-you-off-what-u-do-v0-861gk9gqka0c1.webp" alt="FAQ" />
+    <img id="faq-image" src="téléchargement.jpg" alt="FAQ">
   </div>
-  <div id="faq-image-modal" class="modal hidden" onclick="closeFaqImage(event)">
+</div>
+
+<!-- CONTACT -->
+<div id="contact-image-modal" class="modal hidden" onclick="closeImageModal(event,'contact-image-modal')">
   <div class="modal-content">
-    <img src="big-monke-flips-you-off-what-u-do-v0-861gk9gqka0c1.webp" alt="Contact" />
+    <img id="contact-image" src="d1a9fd234a97e90ea424187dcd8a56ee.gif" alt="Contact">
   </div>
-  <div id="faq-image-modal" class="modal hidden" onclick="closeFaqImage(event)">
+</div>
+
+<!-- TERMES -->
+<div id="termes-image-modal" class="modal hidden" onclick="closeImageModal(event,'termes-image-modal')">
   <div class="modal-content">
-    <img src="big-monke-flips-you-off-what-u-do-v0-861gk9gqka0c1.webp" alt="Termes" />
+    <img id="termes-image" src="big-monke-flips-you-off-what-u-do-v0-861gk9gqka0c1.webp" alt="Termes">
   </div>
+</div>
+
+
 </div>
 </body>
 </html>

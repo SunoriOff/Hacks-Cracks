@@ -290,9 +290,24 @@ route().catch(err => {
   host.prepend(div);
 });
 
-function openFaqImage(){
-  document.getElementById('faq-image-modal')?.classList.remove('hidden');
+function openImageModal(modalId, imgId, src) {
+  const modal = document.getElementById(modalId);
+  const img = document.getElementById(imgId);
+  if (!modal || !img) return;
+
+  // relance l’animation du GIF
+  img.src = "";
+  img.src = src;
+
+  modal.classList.remove("hidden");
 }
+
+function closeImageModal(e, modalId) {
+  if (e.target.id === modalId) {
+    document.getElementById(modalId).classList.add("hidden");
+  }
+}
+
 
 function closeFaqImage(e){
   if(e.target.id === 'faq-image-modal'){
