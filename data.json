@@ -1,0 +1,1702 @@
+{
+  "stats": {
+    "community": 5032,
+    "lastUpdate": "2025-12-24 01:26:26",
+    "lastAdd": "2025-12-21 17:15:19"
+  },
+  "featured": [
+    "software_adobe_photoshop_2025",
+    "software_magix_vegas_pro_23",
+    "software_adobe_after_effects_2025",
+    "software_solidworks_2025"
+  ],
+  "staffPicks": [
+    "software_internet_download_manager",
+    "software_aseprite",
+    "software_wallpaper_engine",
+    "software_clip_studio_paint_ex"
+  ],
+  "topLiked": [
+    "software_adobe_photoshop_2025",
+    "software_filmora_14",
+    "software_fl_studio_25",
+    "software_pack_office_2021_2024_2025"
+  ],
+  "items": [
+    {
+      "id": "software_3dmark",
+      "type": "software",
+      "title": "3DMark",
+      "updatedAt": "2025-02-19 21:56:20",
+      "version": "2.27.8177",
+      "tags": [
+        "Testeur de performances PC"
+      ],
+      "downloads": 1400,
+      "likes": 0,
+      "comments": 1,
+      "cover": "https://jojojuju9.com/uploads/softwares/ionxxme03r2h2n129uqtp5iz.jpg",
+      "details": {
+        "developer": "Futuremark / UL Solutions",
+        "publisher": "UL Solutions",
+        "genres": [
+          "Testeur de performances PC"
+        ],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Dual Core",
+          "ram": "4GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "3 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar et Qbittorrent"
+        },
+        "description": [
+          "3DMark est destiné aux gamers, aux adeptes de l’overclock et aux configurateurs de systèmes qui souhaitent tirer le meilleur parti de leur matériel.",
+          "Avec sa large gamme de tests de référence, 3DMark a tout ce dont vous avez besoin pour tester les performances de votre PC."
+        ],
+        "installation": [
+          "Lire le Read Me."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "3DMark est destiné aux gamers, aux adeptes de l’overclock et aux configurateurs de systèmes qui souhaitent tirer le meilleur parti de leur matériel.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_3dmark.html",
+      "installUrl":"https://link-hub.net/537207/3dmark"
+    },
+    {
+      "id": "software_action_mirillis",
+      "type": "software",
+      "title": "Action Mirillis",
+      "updatedAt": "2025-09-09 22:02:48",
+      "version": "4.45.0",
+      "tags": [
+        "Enregistreur",
+        "Capture Vidéo"
+      ],
+      "downloads": 799,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/kayp9mjlrtw5b3lckppvjzlj.jpg",
+      "details": {
+        "developer": "Mirillis",
+        "publisher": "Mirillis",
+        "genres": [
+          "Enregistreur",
+          "Capture Vidéo"
+        ],
+        "minimum": {
+          "os": "Windows® Vista",
+          "cpu": "Intel Celeron",
+          "ram": "1GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "92 MB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "L’enregistreur d’écran Mirillis Action! permet la diffusion en streaming et l’enregistrement en temps réel du bureau Windows en excellente qualité vidéo HD.",
+          "Avec Action!, vous pouvez enregistrer et diffuser en streaming vos sessions de jeu, partager vos vidéos sur le web, enregistrer de la musique, faire des captures d’écran, ajouter des webcams, ajouter des commentaires par microphone… et plus encore !"
+        ],
+        "installation": [
+          "Lire le Read Me."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "L’enregistreur d’écran Mirillis Action! permet la diffusion en streaming et l’enregistrement en temps réel du bureau Windows en excellente qualité vidéo HD.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_action_mirillis.html",
+      "installUrl":"https://link-hub.net/537207/mirillis-action"
+    },
+    {
+      "id": "software_adobe_after_effects_2025",
+      "type": "software",
+      "title": "Adobe After Effects 2025",
+      "updatedAt": "2025-09-09 22:50:22",
+      "version": "25.4",
+      "tags": [
+        "Montage Vidéo",
+        "Effets Spéciaux"
+      ],
+      "downloads": 1500,
+      "likes": 1,
+      "comments": 2,
+      "cover": "https://jojojuju9.com/uploads/softwares/p99zjciab6gybukw3po5cwit.jpg",
+      "description": "After Effects est un logiciel, à l’origine, de montage vidéo qui est devenu par la suite un outil de composition et d’effets visuels, pionnier de l’animation graphique sur ordinate",
+      "details": {
+        "developer": "Adobe Systems",
+        "publisher": "Adobe Systems",
+        "genres": [
+          "Montage Vidéo",
+          "Effets Spéciaux"
+        ],
+        "notes": "⚠️ Malheureusement, suite à plusieurs correctifs d’Adobe, certaines fonctionnalités (ex: IA) peuvent ne pas fonctionner selon la version/édition installée. ⚠️",
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Core i3",
+          "ram": "16GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "8 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "After Effects est un logiciel, à l’origine, de montage vidéo qui est devenu par la suite un outil de composition et d’effets visuels, pionnier de l’animation graphique sur ordinateur personnel.",
+          "Ce logiciel permet de créer des effets spéciaux et des animations graphiques pour tous supports et à partir de nombreux types de sources."
+        ],
+        "installation": [
+          "Télécharger le logiciel depuis le site officiel ou une source autorisée.",
+          "Extraire l’archive si nécessaire.",
+          "Ouvrir le dossier d’installation.",
+          "Exécuter le fichier d’installation.",
+          "Poursuivre l’installation (cela peut prendre plusieurs minutes).",
+          "Lancer Adobe After Effects 2025 une fois l’installation terminée."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_adobe_after_effects_2025.html",
+      "installUrl":"https://link-target.net/537207/NKu7nUXcxyk7"
+    },
+    {
+      "id": "software_adobe_dreamweaver_2021",
+      "type": "software",
+      "title": "Adobe Dreamweaver 2021",
+      "updatedAt": "2025-09-10 19:31:18",
+      "version": "21.6.0",
+      "tags": [
+        "Éditeur de site WEB"
+      ],
+      "downloads": 625,
+      "likes": 2,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/r9iuym0tf3iysu0kvutd38fc.jpg",
+      "details": {
+        "developer": "Adobe Systems",
+        "publisher": "Adobe Systems",
+        "genres": [
+          "Éditeur de site WEB"
+        ],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Core i3",
+          "ram": "2GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "2 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Dreamweaver permet de dessiner rapidement des pages HTML.",
+          "Dreamweaver est un éditeur de site Web WYSIWYG qui permet de faire un site internet sans connaitre le HTML/CSS et qui supporte l'utilisation de langages dynamiques comme le PHP ou l’ASP."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Dreamweaver permet de dessiner rapidement des pages HTML.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_adobe_dreamweaver_2021.html",
+      "installUrl": "https://link-center.net/537207/qfn4pikiRtCV"
+    },
+    {
+      "id": "software_adobe_illustrator_2025",
+      "type": "software",
+      "title": "Adobe Illustrator 2025",
+      "updatedAt": "2025-09-10 19:10:15",
+      "version": "29.7.1",
+      "tags": [
+        "Traitement/Retouche d'images",
+        "Création Graphique"
+      ],
+      "downloads": 1800,
+      "likes": 0,
+      "comments": 2,
+      "cover": "https://jojojuju9.com/uploads/softwares/eafysn07elbcdgjdhmnr06m5.jpg",
+      "details": {
+        "developer": "Adobe Systems",
+        "publisher": "Adobe Systems",
+        "genres": [
+          "Traitement/Retouche d'images",
+          "Création Graphique"
+        ],
+        "notes": "⚠️ Malheureusement, suite à plusieurs correctifs d’Adobe, certaines fonctionnalités (ex: IA) peuvent ne pas fonctionner selon la version/édition installée. ⚠️",
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Core i3",
+          "ram": "8GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "5 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Le logiciel de graphisme vectoriel de référence vous permet de créer des logos, des icônes, des dessins, des typographies et des illustrations pour l'impression, le Web, la vidéo et les appareils mobiles.",
+          "Illustrator est le logiciel idéal pour concevoir un logo ou des schémas, des pictogrammes pour votre site ou des illustrations.",
+          "Il peut aussi vous permettre de réaliser vos dépliants et affiches pour votre communication. Il est facile d’accès et relativement ludique dans son interface."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Le logiciel de graphisme vectoriel de référence vous permet de créer des logos, des icônes, des dessins, des typographies et des illustrations pour l'impression, le Web, la vidéo e",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_adobe_illustrator_2025.html",
+      "installUrl": "https://link-hub.net/537207/C4I6OoTy2s4W"
+    },
+    {
+      "id": "software_adobe_lightroom_classic_2025",
+      "type": "software",
+      "title": "Adobe Lightroom Classic 2025",
+      "updatedAt": "2025-09-10 19:46:53",
+      "version": "14.5.1",
+      "tags": [
+        "Traitement/Retouche d'images"
+      ],
+      "downloads": 1800,
+      "likes": 2,
+      "comments": 2,
+      "cover": "https://jojojuju9.com/uploads/softwares/np3la6r2lwm9o8owjmaeacbs.jpg",
+      "details": {
+        "developer": "Adobe Systems",
+        "publisher": "Adobe Systems",
+        "genres": [
+          "Traitement/Retouche d'images"
+        ],
+        "notes": "⚠️ Malheureusement, suite à plusieurs correctifs d’Adobe, certaines fonctionnalités (ex: IA) peuvent ne pas fonctionner selon la version/édition installée. ⚠️",
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Core i3",
+          "ram": "8GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "10 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Adobe Lightroom est l’outil d’édition de photo de la suite Adobe.",
+          "Il offre des fonctionnalités poussées pour retoucher, classer ou stocker vos séries de photos.",
+          "Lightroom fait partie des outils de référence pour les photographes et les métiers liés au monde de la photographie."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Adobe Lightroom est l’outil d’édition de photo de la suite Adobe.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_adobe_lightroom_classic_2025.html",
+      "installUrl": "https://link-target.net/537207/7689Tjby97Mr"
+    },
+    {
+      "id": "software_adobe_photoshop_2025",
+      "type": "software",
+      "title": "Adobe Photoshop 2025",
+      "updatedAt": "2025-09-09 23:38:25",
+      "version": "26.10",
+      "tags": [
+        "Traitement/Retouche d'images"
+      ],
+      "downloads": 4800,
+      "likes": 6,
+      "comments": 3,
+      "cover": "https://jojojuju9.com/uploads/softwares/ycyf2c17r0fmek07x0ypaiji.jpg",
+      "details": {
+        "developer": "Adobe Systems",
+        "publisher": "Adobe Systems",
+        "genres": [
+          "Traitement/Retouche d'images"
+        ],
+        "notes": "⚠️ Malheureusement, suite à plusieurs correctifs d’Adobe, certaines fonctionnalités (ex: IA) peuvent ne pas fonctionner selon la version/édition installée. ⚠️",
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Core i3",
+          "ram": "8GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "10 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Adobe Photoshop 2025 est le logiciel de référence pour la retouche et la création d’images.",
+          "Cette version mise sur l’intelligence artificielle pour faciliter les sélections, générer ou modifier des éléments en un clic, et accélérer la production visuelle, tout en conservant la précision et la créativité qui font sa réputation."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Adobe Photoshop 2025 est le logiciel de référence pour la retouche et la création d’images.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_adobe_photoshop_2025.html",
+      "installUrl": "https://link-center.net/537207/qZji0pAaDlLa"
+    },
+    {
+      "id": "software_adobe_premiere_pro_2025",
+      "type": "software",
+      "title": "Adobe Premiere Pro 2025",
+      "updatedAt": "2025-09-09 23:06:27",
+      "version": "25.4.1",
+      "tags": [
+        "Montage Vidéo"
+      ],
+      "downloads": 2100,
+      "likes": 0,
+      "comments": 2,
+      "cover": "https://jojojuju9.com/uploads/softwares/a6wyxxwi36dfmukisgjbnn4d.jpg",
+      "details": {
+        "developer": "Adobe Systems",
+        "publisher": "Adobe Systems",
+        "genres": [
+          "Montage Vidéo"
+        ],
+        "notes": "⚠️ Malheureusement, suite à plusieurs correctifs d’Adobe, certaines fonctionnalités (ex: IA) peuvent ne pas fonctionner selon la version/édition installée. ⚠️",
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Core i3",
+          "ram": "16GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "8 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Adobe Premiere Pro 2025 est un logiciel de montage vidéo professionnel alliant puissance et simplicité.",
+          "La nouvelle version intègre l’IA pour accélérer le montage, enrichir les effets et faciliter la création de contenus de qualité."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Adobe Premiere Pro 2025 est un logiciel de montage vidéo professionnel alliant puissance et simplicité.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_adobe_premiere_pro_2025.html",
+      "installUrl": "https://link-target.net/537207/8E1IwuQWMUc6"
+    },
+    {
+      "id": "software_aomei_partition_assistant",
+      "type": "software",
+      "title": "AOMEI Partition Assistant",
+      "updatedAt": "2024-08-14 22:09:10",
+      "version": "9.7.0",
+      "tags": [
+        "Gestion de l'ordinateur"
+      ],
+      "downloads": 704,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/acy5hhqzawp9l411hyknsr47.jpg",
+      "details": {
+        "developer": "DiskPart",
+        "publisher": "DiskPart",
+        "genres": [
+          "Gestion de l'ordinateur"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "Non nécessaire, par défaut",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "1 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "AOMEI Partition Assistant Standard Edition est un gestionnaire gratuit de partitions pour PC qui dispose de nombreuses fonctionnalités pour contrôler et éditer vos partitions et votre disque dur."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "AOMEI Partition Assistant Standard Edition est un gestionnaire gratuit de partitions pour PC qui dispose de nombreuses fonctionnalités pour contrôler et éditer vos partitions et vo",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_aomei_partition_assistant.html",
+      "installUrl": "https://direct-link.net/537207/aomei-partition-assistant"
+    },
+    {
+      "id": "software_aseprite",
+      "type": "software",
+      "title": "Aseprite",
+      "updatedAt": "2025-10-25 19:22:30",
+      "version": "1.3.15.4",
+      "tags": [
+        "Animation",
+        "Conception / Modélisation",
+        "Pixel-Art"
+      ],
+      "downloads": 787,
+      "likes": 0,
+      "comments": 1,
+      "cover": "https://jojojuju9.com/uploads/softwares/ec6dcrhpmjsfzwr5lw2fr9fh.jpg",
+      "details": {
+        "developer": "David Capello",
+        "publisher": "Igara Studio",
+        "genres": [
+          "Animation",
+          "Conception / Modélisation",
+          "Pixel-Art"
+        ],
+        "minimum": {
+          "os": "Windows® 8",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "Non nécessaire, par défaut",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "80 MB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Aseprite est un outil de pixel-art pour créer des animations 2D, des sprites et tout type de graphisme pour les jeux."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Aseprite est un outil de pixel-art pour créer des animations 2D, des sprites et tout type de graphisme pour les jeux.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_aseprite.html",
+      "installUrl": "https://link-target.net/537207/aseprite"
+    },
+    {
+      "id": "software_avast_premium_security",
+      "type": "software",
+      "title": "Avast Premium Security",
+      "updatedAt": "2025-09-11 23:42:58",
+      "version": "25.8.10387",
+      "tags": [
+        "Antivirus"
+      ],
+      "downloads": 893,
+      "likes": 1,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/nw5st7vxxr2172x52hitjif3.jpg",
+      "details": {
+        "developer": "Avast Software",
+        "publisher": "Avast Software",
+        "genres": [
+          "Antivirus"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Par défaut",
+          "ram": "1GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "2 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Bien plus qu’un antivirus, Avast Premium assure une totale protection en ligne de tous vos ordinateurs, téléphones et tablettes.",
+          "Les virus, les ransomwares, ainsi que les autres attaques ciblent plus souvent Windows que les autres systèmes d’exploitation. Si vous avez un PC, mieux vaut utiliser la protection la plus efficace."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Bien plus qu’un antivirus, Avast Premium assure une totale protection en ligne de tous vos ordinateurs, téléphones et tablettes.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_avast_premium_security.html",
+      "installUrl": "https://link-target.net/537207/LpLf1EjXxTBT"
+    },
+    {
+      "id": "software_avg_internet_security",
+      "type": "software",
+      "title": "AVG Internet Security",
+      "updatedAt": "2024-10-31 15:19:57",
+      "version": "21.11.3215",
+      "tags": [
+        "Antivirus"
+      ],
+      "downloads": 574,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/yt1gkl442p8lg6xlbjkiiwbb.jpg",
+      "details": {
+        "developer": "AVG Technologies",
+        "publisher": "Avast Software",
+        "genres": [
+          "Antivirus"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "1GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "1 GB d'espace disponible",
+          "extra": "Logiciels requis Qbittorrent"
+        },
+        "description": [
+          "AVG Internet Security bloque les virus et les logiciels malveillants.",
+          "Il protège aussi vos e-mails, fichiers personnels et mots de passe, empêche le piratage de votre webcam et sécurise vos achats et transactions bancaires sur Internet."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "AVG Internet Security bloque les virus et les logiciels malveillants.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_avg_internet_security.html",
+      "installUrl": "https://link-target.net/537207/avg-internet-security"
+    },
+    {
+      "id": "software_avira_antivirus_pro",
+      "type": "software",
+      "title": "AVIRA Antivirus Pro",
+      "updatedAt": "2024-10-24 21:14:22",
+      "version": "15.0.2201.2134",
+      "tags": [
+        "Antivirus"
+      ],
+      "downloads": 677,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/hq5h3np6njh0riug0gbush1c.jpg",
+      "details": {
+        "developer": "Avira",
+        "publisher": "",
+        "genres": [
+          "Antivirus"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "2GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "2 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Avira est un logiciel antivirus complet pour PC, qui vous permet d’assurer votre sécurité en ligne contre les virus, les malwares et toutes les menaces lors des transactions bancaires, emails, Wi‑Fi public, ou partages sur les réseaux sociaux."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Avira est un logiciel antivirus complet pour PC, qui vous permet d’assurer votre sécurité en ligne contre les virus, les malwares et toutes les menaces lors des transactions bancai",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_avira_antivirus_pro.html",
+      "installUrl": "https://lstu.fr/avira-antivirus"
+    },
+    {
+      "id": "software_camtasia_2025",
+      "type": "software",
+      "title": "Camtasia 2025",
+      "updatedAt": "2025-09-14 12:12:53",
+      "version": "25.2.3.11943",
+      "tags": [
+        "Montage Vidéo",
+        "Capture Vidéo"
+      ],
+      "downloads": 627,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/xqaebnkmwohfbs699eayluoi.jpg",
+      "details": {
+        "developer": "TechSmith",
+        "publisher": "TechSmith",
+        "genres": [
+          "Montage Vidéo",
+          "Capture Vidéo"
+        ],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "8GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "4 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Camtasia est un logiciel de capture d’écran.",
+          "Vous pouvez enregistrer tout ce qu’il se passe sur votre écran en temps réel : vidéos, PowerPoint, jeux vidéo, etc.",
+          "Le point fort de Camtasia est la possibilité d’ajouter des éléments pour enrichir vos vidéos : effets d’apparition, sous-titres, liens cliquables, chapitrage, etc."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Camtasia est un logiciel de capture d’écran.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_camtasia_2025.html",
+      "installUrl": "https://link-target.net/537207/ufIEgnxAE52g"
+    },
+    {
+      "id": "software_ccleaner_professional",
+      "type": "software",
+      "title": "CCleaner Professional",
+      "updatedAt": "2025-09-14 18:41:16",
+      "version": "6.39.11548",
+      "tags": [
+        "Nettoyeur PC / Optimisation Système"
+      ],
+      "downloads": 1300,
+      "likes": 1,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/oglosk2qskd15denldfpj54w.jpg",
+      "details": {
+        "developer": "Piriform",
+        "publisher": "Piriform",
+        "genres": [
+          "Nettoyeur PC / Optimisation Système"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "1GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "1 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "CCleaner est un logiciel permettant d'optimiser le fonctionnement d'un ordinateur sous Windows.",
+          "Il supprime les fichiers et entrées inutiles, libère de l'espace de stockage et efface des traces de navigation pour protéger la vie privée."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "CCleaner est un logiciel permettant d'optimiser le fonctionnement d'un ordinateur sous Windows.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_ccleaner_professional.html",
+      "installUrl": "https://link-target.net/537207/ccleaner-pro"
+    },
+    {
+      "id": "software_cinema_4d_r25",
+      "type": "software",
+      "title": "Cinema 4D R25",
+      "updatedAt": "2025-09-14 18:28:20",
+      "version": "2025.3.3",
+      "tags": [
+        "Animation",
+        "Conception / Modélisation"
+      ],
+      "downloads": 662,
+      "likes": 1,
+      "comments": 1,
+      "cover": "https://jojojuju9.com/uploads/softwares/v7i28zfeqqr7nc5nudak3e36.jpg",
+      "details": {
+        "developer": "MAXON",
+        "publisher": "MAXON",
+        "genres": [
+          "Animation",
+          "Conception / Modélisation"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Intel Core i3",
+          "ram": "4GB de RAM",
+          "gpu": "NVIDIA Maxwell",
+          "storage": "10 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Cinema 4D est une solution professionnelle de modélisation, d'animation, de simulation et de rendu 3D.",
+          "Ses outils rapides et flexibles rendent les flux de travail 3D plus accessibles et efficaces pour la conception, l’animation, les effets spéciaux, la VR, le jeu vidéo et la visualisation."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Cinema 4D est une solution professionnelle de modélisation, d'animation, de simulation et de rendu 3D.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_cinema_4d_r25.html",
+      "installUrl": "https://link-hub.net/537207/bylM2hUGwUj7"
+    },
+    {
+      "id": "software_clip_studio_paint_ex",
+      "type": "software",
+      "title": "Clip Studio Paint EX",
+      "updatedAt": "2025-09-14 18:57:19",
+      "version": "4.0.3",
+      "tags": [
+        "Traitement/Retouche d'images",
+        "Animation",
+        "Dessin"
+      ],
+      "downloads": 1000,
+      "likes": 0,
+      "comments": 1,
+      "cover": "https://jojojuju9.com/uploads/softwares/grp8xdfdwcq34qy8tsojlbjz.jpg",
+      "details": {
+        "developer": "Celsys",
+        "publisher": "",
+        "genres": [
+          "Traitement/Retouche d'images",
+          "Animation",
+          "Dessin"
+        ],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Core (compatible SSE2)",
+          "ram": "2GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "3 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Clip Studio Paint offre la possibilité d’esquisser toutes sortes de dessins (manga, bande dessinée, concept art, illustration, animation…) de la conception à la finition.",
+          "Le logiciel met à disposition des outils graphiques et une multitude de fonctionnalités, utiles aux artistes professionnels comme amateurs."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Clip Studio Paint offre la possibilité d’esquisser toutes sortes de dessins (manga, bande dessinée, concept art, illustration, animation…) de la conception à la finition.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_clip_studio_paint_ex.html",
+      "installUrl": "https://link-target.net/537207/clip-studio-paint"
+    },
+    {
+      "id": "software_cubase_elements_pro",
+      "type": "software",
+      "title": "Cubase Elements Pro",
+      "updatedAt": "2024-08-14 21:26:02",
+      "version": "9.0.1",
+      "tags": [
+        "Production/Création musicale"
+      ],
+      "downloads": 676,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/j5frjkpq5lffpjeizkxqhfvf.jpg",
+      "details": {
+        "developer": "STEINBERG",
+        "publisher": "STEINBERG",
+        "genres": [
+          "Production/Création musicale"
+        ],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Core i5",
+          "ram": "8GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "6 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Cubase vous aide à exploiter tout votre potentiel créatif : composer, produire, enregistrer et mixer.",
+          "Du compositeur de musique de film au débutant passionné, de nombreux producteurs font confiance à ses outils et à son moteur audio."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Cubase vous aide à exploiter tout votre potentiel créatif : composer, produire, enregistrer et mixer.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_cubase_elements_pro.html",
+      "installUrl": "https://link-target.net/537207/cubase-9"
+    },
+    {
+      "id": "software_disk_drill",
+      "type": "software",
+      "title": "Disk Drill",
+      "updatedAt": "2025-08-27 19:41:38",
+      "version": "6.0.1054.0",
+      "tags": [
+        "Gestion de l'ordinateur"
+      ],
+      "downloads": 690,
+      "likes": 1,
+      "comments": 1,
+      "cover": "https://jojojuju9.com/uploads/softwares/whsu3noyauzmep2nzn95mdi6.jpg",
+      "details": {
+        "developer": "CleverFiles / 508 Software LLC",
+        "publisher": "CleverFiles",
+        "genres": [
+          "Gestion de l'ordinateur"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "2GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "100 MB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Disk Drill est un logiciel de récupération de fichiers avancé, compatible avec de nombreux appareils et systèmes de fichiers.",
+          "Il aide à restaurer des données perdues suite à une suppression, une panne ou un problème de support."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Disk Drill est un logiciel de récupération de fichiers avancé, compatible avec de nombreux appareils et systèmes de fichiers.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_disk_drill.html",
+      "installUrl": "https://link-hub.net/537207/EgbfFPvV0s2U"
+    },
+    {
+      "id": "software_dungeon_alchemist",
+      "type": "software",
+      "title": "Dungeon Alchemist",
+      "updatedAt": "2025-09-14 17:53:16",
+      "version": "Build 19698000",
+      "tags": [
+        "Création de cartes"
+      ],
+      "downloads": 662,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/bkl1yhh7865bhtr64w1xc6hb.jpg",
+      "details": {
+        "developer": "Briganti",
+        "publisher": "Briganti",
+        "genres": [
+          "Création de cartes"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Intel Core i5",
+          "ram": "8GB de RAM",
+          "gpu": "NVIDIA GeForce GTS 450",
+          "storage": "8 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Dungeon Alchemist est un logiciel de cartographie fantasy alimenté par l’IA qui permet de donner vie à votre imagination.",
+          "Créez des mondes et des donjons rapidement grâce à des outils de génération assistée."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Dungeon Alchemist est un logiciel de cartographie fantasy alimenté par l’IA qui permet de donner vie à votre imagination.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_dungeon_alchemist.html",
+      "installUrl": "https://link-center.net/537207/dungeon-alchemist"
+    },
+    {
+      "id": "software_filmora_14",
+      "type": "software",
+      "title": "Filmora 14",
+      "updatedAt": "2025-09-14 17:56:26",
+      "version": "14.9.3.14445",
+      "tags": [
+        "Montage Vidéo",
+        "Capture Vidéo"
+      ],
+      "downloads": 3300,
+      "likes": 14,
+      "comments": 1,
+      "cover": "https://jojojuju9.com/uploads/softwares/j6heh5id5fw1h6zeyvsh6wnh.jpg",
+      "details": {
+        "developer": "Wondershare",
+        "publisher": "Wondershare",
+        "genres": [
+          "Montage Vidéo",
+          "Capture Vidéo"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Intel Core i3",
+          "ram": "8GB de RAM",
+          "gpu": "NVIDIA GeForce GTX 700",
+          "storage": "10 GB d'espace disponible",
+          "extra": "Logiciels requis Qbittorrent"
+        },
+        "description": [
+          "Wondershare Filmora 14 est plus qu'un simple éditeur vidéo : c'est une plateforme créative pour réaliser facilement des vidéos attrayantes et professionnelles.",
+          "Pensé pour tous les niveaux, Filmora combine des fonctions puissantes avec une interface intuitive."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Wondershare Filmora 14 est plus qu'un simple éditeur vidéo : c'est une plateforme créative pour réaliser facilement des vidéos attrayantes et professionnelles.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_filmora_14.html",
+      "installUrl": "https://link-hub.net/537207/wondershare-filmora-14"
+    },
+    {
+      "id": "software_fl_studio_25",
+      "type": "software",
+      "title": "FL Studio 25",
+      "updatedAt": "2025-09-14 18:10:22",
+      "version": "25.1.5.4976",
+      "tags": [
+        "Production/Création musicale"
+      ],
+      "downloads": 5600,
+      "likes": 10,
+      "comments": 3,
+      "cover": "https://jojojuju9.com/uploads/softwares/p3jxhprwzdkwosql9pshrhf4.jpg",
+      "details": {
+        "developer": "Image-Line",
+        "publisher": "Image-Line",
+        "genres": [
+          "Production/Création musicale"
+        ],
+        "minimum": {
+          "os": "Windows® 8 / 8.1",
+          "cpu": "Intel Core i3",
+          "ram": "4GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "4 GB d'espace disponible",
+          "extra": "Logiciels requis Qbittorrent"
+        },
+        "description": [
+          "FL Studio 25 est un logiciel de production musicale complet permettant de composer, enregistrer, éditer, mixer et masteriser avec une grande flexibilité.",
+          "Idéal pour les débutants comme pour les professionnels, il offre une interface fluide et des outils puissants."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "FL Studio 25 est un logiciel de production musicale complet permettant de composer, enregistrer, éditer, mixer et masteriser avec une grande flexibilité.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_fl_studio_25.html",
+      "installUrl": "https://link-center.net/537207/vc7tp0mG6xIg"
+    },
+    {
+      "id": "software_glary_utilities_pro",
+      "type": "software",
+      "title": "Glary Utilities Pro",
+      "updatedAt": "2025-02-19 21:35:44",
+      "version": "6.21.0.25 + AutoUpdate",
+      "tags": [
+        "Nettoyeur PC / Optimisation Système"
+      ],
+      "downloads": 1200,
+      "likes": 2,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/yuu47v4nxe7dmzw6poc0zxsm.jpg",
+      "details": {
+        "developer": "Glarysoft",
+        "publisher": "Glarysoft",
+        "genres": [
+          "Nettoyeur PC / Optimisation Système"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Intel Pentium 4",
+          "ram": "1GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "1 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Glary Utilities propose un large panel d'outils pour diagnostiquer, réparer et optimiser les performances du système.",
+          "L’application inclut notamment un nettoyeur de registre/disque, un gestionnaire de programmes et des outils de confidentialité."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Glary Utilities propose un large panel d'outils pour diagnostiquer, réparer et optimiser les performances du système.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_glary_utilities_pro.html",
+      "installUrl": "https://direct-link.net/537207/glary-utilities"
+    },
+    {
+      "id": "software_internet_download_manager",
+      "type": "software",
+      "title": "Internet Download Manager",
+      "updatedAt": "2025-09-14 18:51:49",
+      "version": "6.42 Build 42",
+      "tags": [
+        "Gestionnaire de téléchargement"
+      ],
+      "downloads": 914,
+      "likes": 1,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/eq6qxhirqxs2v3x6kxn69e72.jpg",
+      "details": {
+        "developer": "Tonec Inc.",
+        "publisher": "Tonec Inc.",
+        "genres": [
+          "Gestionnaire de téléchargement"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "1GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "1 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar et Qbittorrent"
+        },
+        "description": [
+          "Internet Download Manager (IDM) accélère et fiabilise les téléchargements.",
+          "Il peut reprendre des téléchargements interrompus à cause de coupures réseau, pannes de courant ou arrêts inattendus."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Internet Download Manager (IDM) accélère et fiabilise les téléchargements.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_internet_download_manager.html",
+      "installUrl": "https://link-center.net/537207/internet-download-manager"
+    },
+    {
+      "id": "software_lossless_scaling",
+      "type": "software",
+      "title": "Lossless Scaling",
+      "updatedAt": "2025-06-25 11:50:00",
+      "version": "3.1.0.2",
+      "tags": [],
+      "downloads": 1200,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/qsohsyxcpz46o71clx61qosq.jpg",
+      "details": {
+        "developer": "THS",
+        "publisher": "THS",
+        "genres": [],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Par défaut",
+          "ram": "1GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "100 MB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Lossless Scaling est un outil polyvalent conçu pour améliorer l'affichage des jeux à l'écran.",
+          "Il propose des algorithmes de mise à l’échelle, des options plein écran fenêtré et des fonctionnalités adaptées aux jeux modernes comme aux anciens."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Lossless Scaling est un outil polyvalent conçu pour améliorer l'affichage des jeux à l'écran.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_lossless_scaling.html",
+      "installUrl": "https://direct-link.net/537207/S4snGb4BpycD"
+    },
+    {
+      "id": "software_magix_vegas_pro_23",
+      "type": "software",
+      "title": "MAGIX VEGAS Pro 23",
+      "updatedAt": "2025-09-14 19:25:00",
+      "version": "23.0.0.278",
+      "tags": [
+        "Montage Vidéo"
+      ],
+      "downloads": 1000,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/grg42rs7yjx06lisclrdu2zk.jpg",
+      "details": {
+        "developer": "Sony Creative Software - MAGIX Software GmbH",
+        "publisher": "Sonic Foundry",
+        "genres": [
+          "Montage Vidéo"
+        ],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Core i5",
+          "ram": "16GB de RAM",
+          "gpu": "NVIDIA GeForce GTX 900",
+          "storage": "2 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "MAGIX VEGAS Pro 23 est un outil de montage non linéaire moderne offrant un contrôle créatif complet.",
+          "Il propose des outils de montage pro, correction HDR avancée, diffusion en direct et conception sonore."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "MAGIX VEGAS Pro 23 est un outil de montage non linéaire moderne offrant un contrôle créatif complet.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_magix_vegas_pro_23.html",
+      "installUrl": "https://link-center.net/537207/magix-vegas-pro"
+    },
+    {
+      "id": "software_malwarebytes_anti_malware",
+      "type": "software",
+      "title": "Malwarebytes Anti-Malware",
+      "updatedAt": "2025-02-19 22:53:06",
+      "version": "5.1.1.106",
+      "tags": [
+        "Sécurité / Antivirus"
+      ],
+      "downloads": 643,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/jef854prfh01cet4sii97y3u.jpg",
+      "details": {
+        "developer": "Malwarebytes Corporation",
+        "publisher": "Malwarebytes Corporation",
+        "genres": [
+          "Sécurité / Antivirus"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "2GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "600 MB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Malwarebytes éradique des menaces que d’autres solutions peuvent laisser passer (adwares, spywares, malwares…).",
+          "Il complète les antivirus traditionnels pour renforcer la protection du système."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Malwarebytes éradique des menaces que d’autres solutions peuvent laisser passer (adwares, spywares, malwares…).",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_malwarebytes_anti_malware.html",
+      "installUrl": "https://link-center.net/537207/malwaresbytes"
+    },
+    {
+      "id": "software_pack_office_2016",
+      "type": "software",
+      "title": "Pack Office 2016",
+      "updatedAt": "2024-08-12 20:52:38",
+      "version": "",
+      "tags": [
+        "Traitement de texte"
+      ],
+      "downloads": 4200,
+      "likes": 0,
+      "comments": 1,
+      "cover": "https://jojojuju9.com/uploads/softwares/xbw7wn5pun1bv6oggvlgj5ow.jpg",
+      "details": {
+        "developer": "Microsoft Office",
+        "publisher": "Microsoft",
+        "genres": [
+          "Traitement de texte"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "1GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "3 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Découvrez les nouvelles fonctionnalités de Microsoft Office 2016 avec une interface modernisée.",
+          "Cette suite comprend : Word, Excel, PowerPoint, OneNote, Outlook, Publisher et Access."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Découvrez les nouvelles fonctionnalités de Microsoft Office 2016 avec une interface modernisée.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_pack_office_2016.html",
+      "installUrl": "https://link-center.net/537207/office-2016"
+    },
+    {
+      "id": "software_pack_office_2021_2024_2025",
+      "type": "software",
+      "title": "Pack Office 2021 / 2024 / 2025",
+      "updatedAt": "2025-03-15 19:52:48",
+      "version": "2021 / 2024 / 2025",
+      "tags": [
+        "Traitement de texte"
+      ],
+      "downloads": 5000,
+      "likes": 5,
+      "comments": 5,
+      "cover": "https://jojojuju9.com/uploads/softwares/m0hcb8cl02jtu9tcoonftzg9.jpg",
+      "details": {
+        "developer": "Microsoft Office",
+        "publisher": "Microsoft",
+        "genres": [
+          "Traitement de texte"
+        ],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "4GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "4 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar et deamons tools pro"
+        },
+        "description": [
+          "Découvrez les nouvelles fonctionnalités de Microsoft Office 2021 avec une interface modernisée.",
+          "Cette suite comprend : Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Access, Skype, OneDrive, Project et Visio."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Découvrez les nouvelles fonctionnalités de Microsoft Office 2021 avec une interface modernisée.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_pack_office_2021_2024_2025.html",
+      "installUrl": "https://direct-link.net/537207/microsoft-office-2021"
+    },
+    {
+      "id": "software_proteus_8_9_professional",
+      "type": "software",
+      "title": "Proteus 8.9 Professional",
+      "updatedAt": "2024-08-12 20:43:33",
+      "version": "Build 27865",
+      "tags": [
+        "CAO / Electronique"
+      ],
+      "downloads": 6300,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/cw8reyl7vv4x8dg9ew31c3wf.jpg",
+      "details": {
+        "developer": "Labcenter Electronics",
+        "publisher": "Labcenter Electronics",
+        "genres": [
+          "CAO / Electronique"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "4GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "2 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Proteus est une suite logicielle destinée à l’électronique : conception et simulation de systèmes, y compris avec code microcontrôleur.",
+          "Deux logiciels principaux composent la suite : ISIS et ARES."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Proteus est une suite logicielle destinée à l’électronique : conception et simulation de systèmes, y compris avec code microcontrôleur.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_proteus_8_9_professional.html",
+      "installUrl": "https://link-center.net/537207/proteus"
+    },
+    {
+      "id": "software_rekordbox_6_pioneer_dj",
+      "type": "software",
+      "title": "Rekordbox 6 - Pioneer DJ",
+      "updatedAt": "2024-08-12 20:37:58",
+      "version": "",
+      "tags": [
+        "Mixage Musical"
+      ],
+      "downloads": 865,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/z7p82w7mv0gj4fzhw4ptd9du.jpg",
+      "details": {
+        "developer": "Pioneer DJ",
+        "publisher": "AlphaTheta Corporation",
+        "genres": [
+          "Mixage Musical"
+        ],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Core i3",
+          "ram": "4GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "2 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Rekordbox 6 est un logiciel DJ complet permettant de gérer sa musique sur le cloud et offrant des capacités de performance créative.",
+          "Une gestion musicale efficace pour des mixes de niveau professionnel."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Rekordbox 6 est un logiciel DJ complet permettant de gérer sa musique sur le cloud et offrant des capacités de performance créative.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_rekordbox_6_pioneer_dj.html",
+      "installUrl": "https://direct-link.net/537207/pioneer-dj-rekordbox"
+    },
+    {
+      "id": "software_simplify_3d",
+      "type": "software",
+      "title": "Simplify 3D",
+      "updatedAt": "2024-08-14 21:41:38",
+      "version": "4.1.2",
+      "tags": [
+        "Conception / Modélisation"
+      ],
+      "downloads": 1200,
+      "likes": 2,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/yqcog9y6durip79ir8arf6am.jpg",
+      "details": {
+        "developer": "Simplify3D",
+        "publisher": "Simplify3D",
+        "genres": [
+          "Conception / Modélisation"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "4GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "1 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Simplify3D est un logiciel professionnel complet pour l’impression 3D, avec de nombreux paramétrages et options.",
+          "Il traduit les modèles 3D en instructions que l’imprimante comprend."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Simplify3D est un logiciel professionnel complet pour l’impression 3D, avec de nombreux paramétrages et options.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_simplify_3d.html",
+      "installUrl": "https://link-target.net/537207/simplify3d"
+    },
+    {
+      "id": "software_sketchup_pro_2025",
+      "type": "software",
+      "title": "Sketchup Pro 2025",
+      "updatedAt": "2025-09-14 19:03:32",
+      "version": "25.0.571",
+      "tags": [
+        "Animation",
+        "Conception / Modélisation"
+      ],
+      "downloads": 2700,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/daqrh2c77kjqdl04hjlzg41t.jpg",
+      "details": {
+        "developer": "Trimble",
+        "publisher": "Trimble",
+        "genres": [
+          "Animation",
+          "Conception / Modélisation"
+        ],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "8GB de RAM",
+          "gpu": "NVIDIA GeForce GTX",
+          "storage": "2 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "SketchUp est un logiciel de modélisation 3D, d'animation et de cartographie orienté vers l'architecture.",
+          "SketchUp Pro est la façon la plus intuitive de concevoir, documenter et partager vos idées en 3D."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "SketchUp est un logiciel de modélisation 3D, d'animation et de cartographie orienté vers l'architecture.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_sketchup_pro_2025.html",
+      "installUrl": "https://direct-link.net/537207/sketchup-pro-2025"
+    },
+    {
+      "id": "software_solidworks_2018",
+      "type": "software",
+      "title": "SolidWorks 2018",
+      "updatedAt": "2024-10-31 15:19:57",
+      "version": "",
+      "tags": [
+        "Conception / Modélisation"
+      ],
+      "downloads": 1500,
+      "likes": 2,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/s7ksrnthejlrv4p1nf4mlvi4.jpg",
+      "details": {
+        "developer": "Solidworks",
+        "publisher": "Dassault Systèmes",
+        "genres": [
+          "Conception / Modélisation"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Intel Dual Core",
+          "ram": "16GB de RAM",
+          "gpu": "2GB de RAM nécessaire",
+          "storage": "50 GB d'espace disponible",
+          "extra": "Logiciels requis Qbittorrent"
+        },
+        "description": [
+          "Solidworks est un logiciel de conception assistée par ordinateur basé sur la conception paramétrique.",
+          "Il génère des fichiers liés : la pièce, l’assemblage et la mise en plan."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Solidworks est un logiciel de conception assistée par ordinateur basé sur la conception paramétrique.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_solidworks_2018.html",
+      "installUrl": "https://link-hub.net/537207/solidworks-2018"
+    },
+    {
+      "id": "software_solidworks_2025",
+      "type": "software",
+      "title": "SolidWorks 2025",
+      "updatedAt": "2025-10-03 21:13:10",
+      "version": "SP4.1",
+      "tags": [
+        "Conception / Modélisation"
+      ],
+      "downloads": 5100,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/kg8libzy6crf0fzxmhf8fiie.jpg",
+      "details": {
+        "developer": "Solidworks",
+        "publisher": "Dassault Systèmes",
+        "genres": [
+          "Conception / Modélisation"
+        ],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Par défaut",
+          "ram": "16GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "30 GB d'espace disponible",
+          "extra": "Logiciels requis Qbittorrent"
+        },
+        "description": [
+          "Solidworks est un logiciel de conception assistée par ordinateur basé sur la conception paramétrique.",
+          "Il génère des fichiers liés : la pièce, l’assemblage et la mise en plan."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Solidworks est un logiciel de conception assistée par ordinateur basé sur la conception paramétrique.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_solidworks_2025.html",
+      "installUrl": "https://link-hub.net/537207/solidworks-2025"
+    },
+    {
+      "id": "software_stardock_descapes_8",
+      "type": "software",
+      "title": "Stardock Descapes 8",
+      "updatedAt": "2024-08-12 23:00:13",
+      "version": "",
+      "tags": [
+        "Animation",
+        "Fond d'écran animé"
+      ],
+      "downloads": 509,
+      "likes": 0,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/lheha39iqa5m9h4youk5x88j.jpg",
+      "details": {
+        "developer": "Stardock",
+        "publisher": "Stardock Software",
+        "genres": [
+          "Animation",
+          "Fond d'écran animé"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Non nécessaire, par défaut",
+          "ram": "1GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "1 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Stardock DeskScapes 8 vous donne la possibilité d'animer et de personnaliser le fond d'écran sur votre bureau Windows.",
+          "Choisissez parmi la vaste bibliothèque intégrée ou utilisez vos propres images ou fichiers vidéo pour personnaliser votre bureau."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Stardock DeskScapes 8 vous donne la possibilité d'animer et de personnaliser le fond d'écran sur votre bureau Windows.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_stardock_descapes_8.html",
+      "installUrl": "https://www.youtube.com/watch?v=4ZVWt_FuSQQ&index=2&list=PL9ZYeeVt6AUtqW1xkkLSbXsjgJxPkZMQx"
+    },
+    {
+      "id": "software_topaz_video_ai",
+      "type": "software",
+      "title": "Topaz Video AI",
+      "updatedAt": "2025-09-14 19:32:59",
+      "version": "7.1.4",
+      "tags": [
+        "Montage Vidéo"
+      ],
+      "downloads": 1400,
+      "likes": 1,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/p9vx7vpru9it6prbo2z49yqh.jpg",
+      "details": {
+        "developer": "Topaz Labs",
+        "publisher": "Topaz Labs",
+        "genres": [
+          "Montage Vidéo"
+        ],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Core (avec instructions AVX)",
+          "ram": "16GB de RAM",
+          "gpu": "NVIDIA GeForce GTX 900",
+          "storage": "10 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Topaz Video AI propose des agrandissements vidéo et améliorations via une technologie d'IA.",
+          "Formé sur des milliers de vidéos, il peut améliorer vos séquences à très haute résolution avec des détails cohérents."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Topaz Video AI propose des agrandissements vidéo et améliorations via une technologie d'IA.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_topaz_video_ai.html",
+      "installUrl": "https://link-center.net/537207/topaz-video-ai"
+    },
+    {
+      "id": "software_virtual_dj_pro_2021",
+      "type": "software",
+      "title": "Virtual DJ Pro 2021",
+      "updatedAt": "2025-03-10 19:53:18",
+      "version": "8.5.6334",
+      "tags": [
+        "Mixage Musical"
+      ],
+      "downloads": 1200,
+      "likes": 1,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/p21sg7nvvsl4laj1mniiajt9.jpg",
+      "details": {
+        "developer": "Virtual DJ",
+        "publisher": "Atomix Productions",
+        "genres": [
+          "Mixage Musical"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Intel Core i5",
+          "ram": "8GB de RAM",
+          "gpu": "NVIDIA GeForce GTX 1050",
+          "storage": "1 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Le logiciel prend la forme de deux platines associées à une table de mixage centrale.",
+          "Il inclut la gestion de playlist, une recherche, des visualisations et des boucles de durées variables."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Le logiciel prend la forme de deux platines associées à une table de mixage centrale.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_virtual_dj_pro_2021.html",
+      "installUrl": "https://direct-link.net/537207/virtualdj-pro"
+    },
+    {
+      "id": "software_voicemod_pro",
+      "type": "software",
+      "title": "VoiceMod Pro",
+      "updatedAt": "2025-03-30 20:41:47",
+      "version": "1.2.6.8",
+      "tags": [
+        "Enregistreur",
+        "Modificateur de Voix"
+      ],
+      "downloads": 4300,
+      "likes": 4,
+      "comments": 2,
+      "cover": "https://jojojuju9.com/uploads/softwares/b2ge97xvkzc44vn47rg5dzip.jpg",
+      "details": {
+        "developer": "VoiceMod",
+        "publisher": "Voicemod Inc.",
+        "genres": [
+          "Enregistreur",
+          "Modificateur de Voix"
+        ],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Quad Core",
+          "ram": "4GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "1 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Voicemod est un logiciel de changement de voix pour les joueurs, créateurs de contenu et vtubers.",
+          "Ajoutez des effets et explorez de nombreuses voix et filtres."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Voicemod est un logiciel de changement de voix pour les joueurs, créateurs de contenu et vtubers.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_voicemod_pro.html",
+      "installUrl": "https://link-hub.net/537207/voicemod-pro"
+    },
+    {
+      "id": "software_wallpaper_engine",
+      "type": "software",
+      "title": "Wallpaper Engine",
+      "updatedAt": "2025-07-15 22:46:46",
+      "version": "2.6.166",
+      "tags": [
+        "Animation",
+        "Fond d'écran animé"
+      ],
+      "downloads": 1900,
+      "likes": 2,
+      "comments": 0,
+      "cover": "https://jojojuju9.com/uploads/softwares/bemp3m2g9s39az0oq4s3ehtt.jpg",
+      "details": {
+        "developer": "Wallpaper Engine Team",
+        "publisher": "Wallpaper Engine Team",
+        "genres": [
+          "Animation",
+          "Fond d'écran animé"
+        ],
+        "minimum": {
+          "os": "Windows® 10",
+          "cpu": "Intel Core i5",
+          "ram": "1GB de RAM",
+          "gpu": "HD Graphics 4000",
+          "storage": "512 MB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "Utilisez des fonds d'écran animés sur votre bureau Windows.",
+          "Animez vos propres images ou importez des vidéos et des sites Internet."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "Utilisez des fonds d'écran animés sur votre bureau Windows.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_wallpaper_engine.html",
+      "installUrl": "https://link-center.net/537207/wallpaper-engine"
+    },
+    {
+      "id": "software_wemod_pro",
+      "type": "software",
+      "title": "WeMod Pro",
+      "updatedAt": "2025-02-19 23:02:34",
+      "version": "10.4.0 + Auto Update",
+      "tags": [
+        "Outils (à préciser)"
+      ],
+      "downloads": 3400,
+      "likes": 4,
+      "comments": 2,
+      "cover": "https://jojojuju9.com/uploads/softwares/cm4wpwcalvmi0y0gh6q7wa29.jpg",
+      "details": {
+        "developer": "Wemod",
+        "publisher": "Wemod",
+        "genres": [
+          "Triche",
+          "Cheat"
+        ],
+        "minimum": {
+          "os": "Windows® 7",
+          "cpu": "Par défaut",
+          "ram": "1GB de RAM",
+          "gpu": "Non nécessaire, par défaut",
+          "storage": "1 GB d'espace disponible",
+          "extra": "Logiciels requis Winrar"
+        },
+        "description": [
+          "WeMod est une application permettant de modder des jeux.",
+          "Elle vise à offrir un moyen rapide d'accéder à des mods et des cheats pour de nombreux jeux populaires."
+        ],
+        "installation": [
+          "Lire le Read Me ."
+        ],
+        "installationButtonLabel": "Lire le Read Me"
+      },
+      "description": "WeMod est une application permettant de modder des jeux.",
+      "readmeUrl": "https://sunorioff.github.io/sunori-readmes/software_wemod_pro.html",
+      "installUrl": "https://link-hub.net/537207/wemod-pro"
+    }
+  ]
+}

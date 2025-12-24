@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sunori — Détail</title>
+  <meta name="description" content="Sunori — catalogue moderne (thème vert/violet) inspiré d’un site de type listing." />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" type="image/png" href="vrai_logo.png">
+
+</head>
+<body>
+  <header class="topbar">
+    <div class="container">
+      <div class="nav">
+        <a class="brand" href="index.html" aria-label="Sunori">
+          <div class="logo">
+            <img src="vrai_logo.png" alt="Sunori" />
+          </div>
+          <div>
+            <div>Sunori</div>
+            <small>Hacks&Cracks</small>
+          </div>
+        </a>
+        <nav class="navlinks">
+          <a class="pill" href="index.html">Accueil</a>
+          <!--<a class="pill" href="games.html">Jeux</a>-->
+          <a class="pill" href="softwares.html">Logiciels</a>
+          </a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  
+<main class="container">
+  <section class="hero" style="padding-top:22px">
+    <div id="item-root"></div>
+  </section>
+</main>
+
+
+ <footer class="footer">
+    <div class="container">
+      <div class="row">
+        <div>
+          <b>Sunori</b> <span>— Hack&Crack.</span>
+          <div style="margin-top:6px"><small class="mono">© 2025 Sunori • Tous droits réserver</small></div>
+        </div>
+        <div class="chips">
+          <a class="chip" href="#" onclick="openFaqImage(); return false;">Contact</a>
+          <a class="chip" href="#" onclick="openFaqImage(); return false;">Termes</a>
+          <a class="chip" href="#" onclick="openFaqImage(); return false;">FAQ</a>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </footer>
+
+<!-- Read-me Modal -->
+<div id="readme-modal" class="modal hidden" aria-hidden="true">
+  <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="readme-title">
+    <button class="modal-close" type="button" aria-label="Fermer">×</button>
+    <h2 id="readme-title" style="margin:0 0 10px 0;"></h2>
+    <div id="readme-content"></div>
+  </div>
+</div>
+
+
+
+
+  <script src="app.js"></script>
+  <div id="faq-image-modal" class="modal hidden" onclick="closeFaqImage(event)">
+  <div class="modal-content">
+    <img src="big-monke-flips-you-off-what-u-do-v0-861gk9gqka0c1.webp" alt="FAQ" />
+  </div>
+  <div id="faq-image-modal" class="modal hidden" onclick="closeFaqImage(event)">
+  <div class="modal-content">
+    <img src="big-monke-flips-you-off-what-u-do-v0-861gk9gqka0c1.webp" alt="Contact" />
+  </div>
+  <div id="faq-image-modal" class="modal hidden" onclick="closeFaqImage(event)">
+  <div class="modal-content">
+    <img src="big-monke-flips-you-off-what-u-do-v0-861gk9gqka0c1.webp" alt="Termes" />
+  </div>
+</div>
+</body>
+</html>
