@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sunori — Films</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="topbar">
+  <div class="container">
+    <div class="nav">
+      <a class="brand" href="index.html" aria-label="Sunori">
+        <div class="logo"><img src="vrai_logo.png" alt="Sunori" /></div>
+        <div>
+          <div>Sunori</div>
+          <small>Hacks&Cracks</small>
+        </div>
+      </a>
+      <nav class="navlinks">
+        <a class="pill" href="index.html">Accueil</a>
+        <a class="pill" href="softwares.html">Logiciels</a>
+        <a class="pill active" href="films.html">Films</a>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+  <section class="hero" style="padding-top:28px">
+    <div class="card hero-card">
+      <div class="kicker"><span class="dot"></span>Films</div>
+      <h1>Films</h1>
+      <p class="lead">Clique sur un film pour voir le synopsis et le lecteur.</p>
+      <div class="toolbar">
+        <input id="q" class="input" placeholder="Rechercher un film…" />
+        <span id="result-count" class="chip">—</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:0">
+    <div id="films-grid" class="grid"></div>
+  </section>
+</main>
+
+<script>
+const $ = (q, el=document) => el.querySelector(q);
+
+function escapeHtml(s){
+  return String(s).replace(/[&<>"']/g, c => ({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+  }[c]));
+}
+
+function renderFilms(list){
+  const grid = $("#films-grid");
+  grid.innerHTML = list.map(f => `
+    <a class="card item" href="film.html?id=${encodeURIComponent(f.id)}" aria-label="${escapeHtml(f.title)}">
+      <div class="thumb" style="${f.cover ? `background-image:url('${f.cover}'); background-size:cover; background-position:center;` : ''}">
+        <span class="badge software">Film</span>
+      </div>
+      <div class="meta">
+        <h3>${escapeHtml(f.title)}</h3>
+        <p>${escapeHtml(f.synopsis || '').slice(0, 140)}${(f.synopsis || '').length > 140 ? '…' : ''}</p>
+        <div class="chips">
+          ${(f.tags || []).slice(0,4).map(t => `<span class="chip">${escapeHtml(t)}</span>`).join('')}
+        </div>
+      </div>
+    </a>
+  `).join("");
+}
+
+fetch("film.json", {cache:"no-store"})
+  .then(r => r.json())
+  .then(data => {
+    const q = $("#q");
+    const all = data.films || [];
+
+    const update = () => {
+      const query = (q.value || "").toLowerCase().trim();
+      const filtered = all.filter(f => {
+        if(!query) return true;
+        return (
+          (f.title || "").toLowerCase().includes(query) ||
+          (f.saga || "").toLowerCase().includes(query) ||
+          (f.tags || []).join(" ").toLowerCase().includes(query)
+        );
+      });
+      $("#result-count").textContent = `${filtered.length} film(s)`;
+      renderFilms(filtered);
+    };
+
+    q.addEventListener("input", update);
+    update();
+  })
+  .catch(err => {
+    console.error(err);
+    $("#result-count").textContent = "Erreur";
+  });
+</script>
+
+</body>
+</html>

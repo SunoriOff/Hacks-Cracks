@@ -1,0 +1,342 @@
+{
+  "stats": {
+    "totalFilms": 3,
+    "lastUpdate": "2025-02-02 23:55:00"
+  },
+  "films": [
+    {
+      "id": "film_venom_1",
+      "type": "film",
+      "saga": "Venom",
+      "title": "Venom",
+      "year": 2018,
+      "duration": "1h52",
+      "tags": ["Action", "Science-fiction", "Super-héros"],
+      "cover": "https://media.themoviedb.org/t/p/original/vVusHIRlyyFVS42XnqZso2wGKr.jpg",
+      "videoUrl": "https://sharecloudy.com/iframe/nJvtx7lKLX",
+      "synopsis": "Eddie Brock, journaliste d’investigation, devient l’hôte d’un symbiote extraterrestre nommé Venom. Ensemble, ils doivent apprendre à coexister alors qu’une organisation scientifique menace l’humanité.",
+      "stats": {
+        "views": 12500,
+        "likes": 320,
+        "comments": 45
+      }
+    },
+    {
+      "id": "film_venom_2",
+      "type": "film",
+      "saga": "Venom",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021,
+      "duration": "1h37",
+      "tags": ["Action", "Science-fiction", "Super-héros"],
+      "cover": "https://media.themoviedb.org/t/p/original/tueBy90QPdzuY0SYjP9sBiM3qNS.jpg",
+      "videoUrl": "https://sharecloudy.com/iframe/aleDkjOuE1",
+      "synopsis": "La relation entre Eddie Brock et Venom est mise à l’épreuve lorsqu’un nouveau symbiote encore plus dangereux fait son apparition : Carnage.",
+      "stats": {
+        "views": 14800,
+        "likes": 410,
+        "comments": 61
+      }
+    },
+    {
+      "id": "film_venom_3",
+      "type": "film",
+      "saga": "Venom",
+      "title": "Venom: The Last Dance",
+      "year": 2024,
+      "duration": "1h49",
+      "tags": ["Action", "Science-fiction", "Super-héros"],
+      "cover": "https://media.themoviedb.org/t/p/original/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+      "videoUrl": "https://sharecloudy.com/iframe/CMDrAXolHS",
+      "synopsis": "Traqués par des forces humaines et extraterrestres, Eddie et Venom affrontent leur ultime combat pour survivre ensemble.",
+      "stats": {
+        "views": 19200,
+        "likes": 580,
+        "comments": 92
+      }
+    },
+    {
+      "id": "film_deadpool_2016",
+      "type": "film",
+      "title": "Deadpool",
+      "year": 2016,
+      "saga": "Deadpool",
+      "updatedAt": "2026-01-14 00:00:00",
+      "tags": ["Action", "Comédie", "Super-héros"],
+      "cover": "https://www.themoviedb.org/t/p/original/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "synopsis": "Wade Wilson, un ancien mercenaire devenu patient d’un programme expérimental, acquiert des capacités de régénération hors normes. Défiguré mais déterminé, il adopte l’alias Deadpool et se lance à la poursuite de l’homme responsable, prêt à tout pour se venger et retrouver celle qu’il aime.",
+      "videoUrl": "https://sharecloudy.com/iframe/tb1lzwhBqI",
+      "details": {
+        "director": ["Tim Miller"],
+        "cast": ["Ryan Reynolds", "Morena Baccarin", "Ed Skrein", "T. J. Miller", "Gina Carano"],
+        "country": ["États-Unis"],
+        "language": ["Anglais"],
+        "runtime": "108 min",
+        "rating": "R",
+        "genres": ["Action", "Comédie", "Super-héros"],
+        "notes": "Renseigne cover (image) et videoUrl (source vidéo légale/lecteur) pour activer l’affichage complet."
+      }
+    },
+    {
+      "id": "film_deadpool_2_2018",
+      "type": "film",
+      "title": "Deadpool 2",
+      "year": 2018,
+      "saga": "Deadpool",
+      "updatedAt": "2026-01-14 00:00:00",
+      "tags": ["Action", "Comédie", "Super-héros"],
+      "cover": "https://www.themoviedb.org/t/p/original/ybjooZMNlRBaFNfs52XqONc4Xyw.jpg",
+      "synopsis": "Après une tragédie personnelle, Deadpool tente de donner un nouveau sens à sa vie. Lorsqu’un soldat venu du futur, Cable, traque un jeune mutant, il décide de protéger l’adolescent. Pour y parvenir, il forme une équipe improbable et se retrouve embarqué dans une mission chaotique où l’humour et la violence font (encore) bon ménage.",
+      "videoUrl": "https://sharecloudy.com/iframe/mMeoWWqjLx",
+      "details": {
+        "director": ["David Leitch"],
+        "cast": ["Ryan Reynolds", "Josh Brolin", "Zazie Beetz", "Julian Dennison", "Morena Baccarin"],
+        "country": ["États-Unis"],
+        "language": ["Anglais"],
+        "runtime": "119 min",
+        "rating": "R",
+        "genres": ["Action", "Comédie", "Super-héros"],
+        "notes": "Tu peux aussi ajouter une version (ex: 'Super Duper Cut') dans un champ optionnel si tu veux."
+      }
+    },
+    {
+      "id": "film_deadpool_and_wolverine_2024",
+      "type": "film",
+      "title": "Deadpool & Wolverine",
+      "year": 2024,
+      "saga": "Deadpool",
+      "updatedAt": "2026-01-14 00:00:00",
+      "tags": ["Action", "Comédie", "Super-héros", "Science-fiction"],
+      "cover": "https://media.themoviedb.org/t/p/original/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "synopsis": "Deadpool se retrouve entraîné dans une aventure aux enjeux multiversels qui l’oblige à faire équipe avec Wolverine. Entre affrontements déchaînés, alliances improbables et humour corrosif, les deux anti-héros doivent survivre à une mission qui menace de bouleverser leur monde — et peut-être bien l’équilibre de plusieurs réalités.",
+      "videoUrl": "https://sharecloudy.com/iframe/dNP5fyxUfv",
+      "details": {
+        "director": ["Shawn Levy"],
+        "cast": ["Ryan Reynolds", "Hugh Jackman", "Emma Corrin", "Morena Baccarin"],
+        "country": ["États-Unis"],
+        "language": ["Anglais"],
+        "runtime": "128 min",
+        "rating": "R",
+        "genres": ["Action", "Comédie", "Super-héros", "Science-fiction"],
+        "notes": "Ajoute cover + videoUrl. Si tu veux, je peux aussi te préparer les covers (liens) si tu me donnes tes sources autorisées."
+      }
+    },
+{
+  "id": "film_predator_badlands_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/empQGO0pCVTndCpihyVpNfaLebl.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/Sa5cKHr2kp",
+  "title": "Predator : Badlands",
+  "year": 2025,
+  "tags": ["Action", "Science-fiction", "Survie", "Horreur"],
+  "synopsis": "Dans une région désertique hostile, un nouveau Predator traque une proie inattendue. Entre survie et chasse mortelle, les règles changent lorsque l’humain devient le chasseur."
+},
+{
+  "id": "film_wicked_part2_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/qMkHZ0OrQpv8yyU0og611uXBwKL.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/8anD8wTR9h",
+  "title": "Wicked : Partie II",
+  "year": 2025,
+  "tags": ["Fantastique", "Musical", "Drame"],
+  "synopsis": "Elphaba et Glinda affrontent les conséquences de leurs choix dans un monde divisé. Trahisons, sacrifices et destin s’entremêlent alors que la légende de la Méchante Sorcière de l’Ouest s’écrit définitivement."
+},
+{
+  "id": "film_fnaf_2_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/qWS1VKQBTc",
+  "title": "Five Nights at Freddy's 2",
+  "year": 2025,
+  "tags": ["Horreur", "Thriller", "Mystère"],
+  "synopsis": "Les animatroniques sont de retour. Un nouveau gardien découvre que les horreurs du passé n’ont jamais quitté Freddy Fazbear’s Pizza."
+},
+{
+  "id": "film_insaisissables_3_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/vUoP6stU1O",
+  "title": "Insaisissables 3",
+  "year": 2025,
+  "tags": ["Action", "Thriller", "Crime", "Braquage"],
+  "synopsis": "Les Cavaliers reprennent du service pour un ultime casse spectaculaire face à un ennemi plus rusé que jamais."
+},
+{
+  "id": "film_running_man_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/lyEwf4mAEd",
+  "title": "Running Man",
+  "year": 2025,
+  "tags": ["Action", "Science-fiction", "Thriller", "Dystopie"],
+  "synopsis": "Dans une société totalitaire, un jeu télévisé transforme la survie en spectacle. Un homme devient le symbole de la rébellion."
+},
+{
+  "id": "film_tron_ares_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/tkILExgVXhNLoxy4KNgCk9PC4lU.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/w1fgH3Q71G",
+  "title": "Tron : Ares",
+  "year": 2025,
+  "tags": ["Science-fiction", "Action", "Technologie"],
+  "synopsis": "Un programme avancé franchit la frontière entre le monde numérique et le monde réel, déclenchant une menace technologique majeure."
+},
+{
+  "id": "film_dracula_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/hKmFbXVFalF7UXL3G8fKUmNESkP.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/VXaLMMRZBI",
+  "title": "Dracula",
+  "year": 2025,
+  "tags": ["Horreur", "Fantastique", "Drame", "Gothique"],
+  "synopsis": "Une relecture sombre et moderne du mythe de Dracula, explorant l’origine et la malédiction du vampire légendaire."
+},
+{
+  "id": "film_une_bataille_apres_l_autre_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/pY61936dHuGtvpxh8mm30mRl1Md.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/LhVmtIj9gC",
+  "title": "Une bataille après l'autre",
+  "year": 2025,
+  "tags": ["Drame", "Guerre", "Survie"],
+  "synopsis": "Après un conflit dévastateur, des survivants tentent de reconstruire leur humanité alors que la guerre menace de renaître."
+},
+{
+  "id": "film_smashing_machine_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/cTGJaooNbo2931BOhRHcJwW1Q5x.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/cqjeI4ycGW",
+  "title": "Smashing Machine",
+  "year": 2025,
+  "tags": ["Drame", "Sport", "Biopic"],
+  "synopsis": "Ascension et chute d’un combattant de sports extrêmes prêt à tout pour devenir une légende."
+},
+{
+  "id": "film_conjuring_jugement_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/DP0Aw0fWQD",
+  "title": "Conjuring : L'Heure du jugement",
+  "year": 2025,
+  "tags": ["Horreur", "Surnaturel", "Thriller"],
+  "synopsis": "Les Warren affrontent leur affaire la plus terrifiante face à une entité démoniaque ancienne."
+},
+{
+  "id": "film_fantastic_four_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/2REHnvEBsPA121X4Fi8dvGaYJ4o.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/9gaf9UoB8D",
+  "title": "Les 4 Fantastiques : Premiers pas",
+  "year": 2025,
+  "tags": ["Action", "Science-fiction", "Super-héros", "Aventure"],
+  "synopsis": "Quatre individus acquièrent des pouvoirs extraordinaires et doivent apprendre à devenir une famille pour sauver le monde."
+},
+{
+  "id": "film_evanouis_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/l5lipwrItOJQmockT57No63EPPy.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/bbYAdRj74k",
+  "title": "Évanouis",
+  "year": 2025,
+  "tags": ["Thriller", "Mystère", "Horreur"],
+  "synopsis": "Des personnes disparaissent mystérieusement. Une enquête révèle un phénomène terrifiant lié à la mémoire."
+},
+{
+  "id": "film_flic_sauver_monde_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/iCT7jC3zLvXVOugiVZPDuWuItjz.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/6KTVLXWvZ1",
+  "title": "Y a-t-il un flic pour sauver le monde ?",
+  "year": 2025,
+  "tags": ["Comédie", "Parodie", "Action"],
+  "synopsis": "Un policier incompétent se retrouve au cœur d’une menace mondiale dans une comédie déjantée."
+},
+{
+  "id": "film_nobody_2_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/gmyEMJqpScyALufAMspejI6qGQx.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/nTnIssTo8C",
+  "title": "Nobody 2",
+  "year": 2025,
+  "tags": ["Action", "Thriller", "Crime"],
+  "synopsis": "Un ancien assassin est forcé de replonger dans la violence pour protéger sa famille."
+},
+{
+  "id": "film_f1_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/9i5VlOVWAQ8yTyCLNNVXa7hozUu.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/9NxxNKlyR2",
+  "title": "F1® Le Film",
+  "year": 2025,
+  "tags": ["Sport", "Drame", "Action"],
+  "synopsis": "Un pilote déchu tente un retour spectaculaire en Formule 1 sous une pression extrême."
+},
+{
+  "id": "film_elio_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/jaKbruwD7KLlnprsse1zuOm4o2a.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/nKRZSFRRth",
+  "title": "Elio",
+  "year": 2025,
+  "tags": ["Animation", "Aventure", "Science-fiction", "Famille"],
+  "synopsis": "Un jeune garçon est pris pour l’ambassadeur de la Terre par des extraterrestres."
+},
+{
+  "id": "film_mission_impossible_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/sMXIgLJrWI",
+  "title": "Mission : Impossible – The Final Reckoning",
+  "year": 2025,
+  "tags": ["Action", "Espionnage", "Thriller"],
+  "synopsis": "Ethan Hunt affronte sa mission la plus personnelle face à une menace mondiale."
+},
+{
+  "id": "film_superman_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/l5nirUStSC5k5eignnyWgknHftS.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/C09XF1PnzU",
+  "title": "Superman",
+  "year": 2025,
+  "tags": ["Action", "Super-héros", "Aventure", "Science-fiction"],
+  "synopsis": "Clark Kent tente de redéfinir ce que signifie être un héros dans un monde qui doute."
+},
+{
+  "id": "film_schtroumpfs_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/ex1fEEZMulsJzqijF077J2ICYdR.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/bMhNKzDLxF",
+  "title": "Les Schtroumpfs",
+  "year": 2025,
+  "tags": ["Animation", "Comédie", "Famille", "Aventure"],
+  "synopsis": "Les Schtroumpfs quittent leur village pour une aventure dans le monde réel."
+},
+{
+  "id": "film_jurassic_world_renaissance_2025",
+  "type": "film",
+  "cover": "https://media.themoviedb.org/t/p/original/39BWHFc5J2Pp7gHcykwOkm3tWTA.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/7gK3PHQtkw",
+  "title": "Jurassic World : Renaissance",
+  "year": 2025,
+  "tags": ["Aventure", "Action", "Science-fiction", "Thriller"],
+  "synopsis": "Humains et dinosaures doivent coexister alors qu’un nouvel équilibre mondial menace de s’effondrer."
+},
+{
+  "id": "film_five_nights_at_freddys_2023",
+  "type": "film",
+  "title": "Five Nights At Freddy's",
+  "year": 2023,
+  "cover": "https://www.themoviedb.org/t/p/original/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg",
+  "videoUrl": "https://sharecloudy.com/iframe/qBmUWKooE7",
+  "tags": [
+    "Horreur",
+    "Thriller",
+    "Surnaturel",
+    "Jeu vidéo",
+    "Animatroniques"
+  ],
+  "synopsis": "Mike Schmidt, un jeune homme en difficulté financière, accepte un emploi de gardien de nuit dans une pizzeria abandonnée : Freddy Fazbear’s Pizza. Très vite, il découvre que les animatroniques du restaurant prennent vie la nuit et deviennent mortellement dangereux. En tentant de survivre, Mike lève le voile sur un passé macabre lié à la disparition d’enfants."
+}
+  ]
+}
+
